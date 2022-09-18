@@ -1,6 +1,6 @@
 <div align="Center">
 
-![Loki2442](https://raw.githubusercontent.com/Loki2442/.github/main/profile/icons/me.png)
+![Loki2442](https://raw.githubusercontent.com/Loki2442/.github/main/profile/icons/Me.png)
 
 Hello There!
 
@@ -19,6 +19,9 @@ This is a GitHub Organisation owned by **Loki2442** (Swastik Kulshreshtha). It i
 <hr>
 
 ## Game Profiles
+
+</div>
+
 [![Steam](https://raw.githubusercontent.com/Loki2442/.github/main/profile/icons/steam.svg) `Loki2442`](https://steamcommunity.com/id/loki2442/)<br>
 [![Xbox](https://raw.githubusercontent.com/Loki2442/.github/main/profile/icons/xbox.svg) `Loki2442`]()<br>
 [![Epic Games](https://raw.githubusercontent.com/Loki2442/.github/main/profile/icons/egs.svg) `Loki2442`]()<br>
@@ -33,6 +36,4 @@ This is a GitHub Organisation owned by **Loki2442** (Swastik Kulshreshtha). It i
 ![Discord RPC](https://lanyard-profile-readme.vercel.app/api/600286650509295616?hideDiscrim=true&idleMessage=Probably%20AFK)
 
 <hr>
-
-</div>
 <!-- Images are copyright to their Respective Brands. -->
