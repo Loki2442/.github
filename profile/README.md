@@ -4,36 +4,29 @@
 
 Hello There!
 
-This is a GitHub Organisation owned by **Loki2442** (Swastik Kulshreshtha). It is used for coding related stuff for various platforms like Discord, Telegram etc.
+I am **Loki2442**. I use this organisation for coding-related stuff for Games & all.
 
 <hr>
 
-## Social Media
-![[Instagram](https://instagram.com/loki_2442)](https://raw.githubusercontent.com/Loki2442/.github/main/profile/icons/instagram.svg)
+## Social Profiles
+[![Steam](https://raw.githubusercontent.com/Loki2442/.github/main/profile/icons/steam.svg)](https://steamcommunity.com/id/loki2442/)
 ![[Twitter](https://twitter.com/loki2442)](https://raw.githubusercontent.com/Loki2442/.github/main/profile/icons/twitter.svg)
 ![[YouTube](https://www.youtube.com/channel/UC3CoDH7SnpMD9FWaCCut9tQ)](https://raw.githubusercontent.com/Loki2442/.github/main/profile/icons/youtube.svg)
 ![[Twitch](https://www.twitch.tv/loki_2442)](https://raw.githubusercontent.com/Loki2442/.github/main/profile/icons/twitch.svg)
+<br>
+
+![[Instagram](https://instagram.com/loki_2442)](https://raw.githubusercontent.com/Loki2442/.github/main/profile/icons/instagram.svg)
 ![[Discord](https://discord.com/channels/@me/600286650509295616)](https://raw.githubusercontent.com/Loki2442/.github/main/profile/icons/discord.svg)
 ![[Reddit](https://www.reddit.com/user/Loki2442)](https://raw.githubusercontent.com/Loki2442/.github/main/profile/icons/reddit.svg)
+<br>
 
-<hr>
-
-## Game Profiles
-
-</div>
-
-[![Steam](https://raw.githubusercontent.com/Loki2442/.github/main/profile/icons/steam.svg) `Loki2442`](https://steamcommunity.com/id/loki2442/)<br>
-[![Xbox](https://raw.githubusercontent.com/Loki2442/.github/main/profile/icons/xbox.svg) `Loki2442`]()<br>
-[![Epic Games](https://raw.githubusercontent.com/Loki2442/.github/main/profile/icons/egs.svg) `Loki2442`]()<br>
-[![Ubisoft Connect](https://raw.githubusercontent.com/Loki2442/.github/main/profile/icons/ubisoft.svg) `L0ki2442`]()<br>
-[![EA](https://raw.githubusercontent.com/Loki2442/.github/main/profile/icons/ea.svg) `Loki9296`]()<br>
-[![Rockstar Games](https://raw.githubusercontent.com/Loki2442/.github/main/profile/icons/rockstar.svg) `Loki9296`](https://socialclub.rockstargames.com/member/Loki9296/)<br>
-[![Riot Games](https://raw.githubusercontent.com/Loki2442/.github/main/profile/icons/riot.svg) `Loki2442#noob`]()<br>
-[![Battle.net](https://raw.githubusercontent.com/Loki2442/.github/main/profile/icons/battle.svg) `Loki2442#1568`]()<br>
+Other profiles can be found in [profiles.md](https://raw.githubusercontent.com/Loki2442/.github/main/profile/profiles.md)
 
 <hr>
 
 ![Discord RPC](https://lanyard-profile-readme.vercel.app/api/600286650509295616?hideDiscrim=true&idleMessage=Probably%20AFK)
 
 <hr>
+
+</div>
 <!-- Images are copyright to their Respective Brands. -->
